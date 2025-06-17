@@ -1,0 +1,40 @@
+.Contact {
+  text-align: center;
+  padding: 40px;
+}
+
+.ContactBox {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #f5f5f5;
+  padding: 30px;
+ 
+}
+
+.ContactBox p {
+  margin-bottom:55px;
+  font-size: 1.1rem;
+  color: #333;
+  
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #060023;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
