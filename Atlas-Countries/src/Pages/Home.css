@@ -1,0 +1,46 @@
+.Home {
+  padding: 20px;
+  text-align: center;
+}
+
+.Home h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.Home p {
+  font-size: 1.2rem;
+  position: absolute;
+  top: 25%;
+  left: 29%;
+  color: #0e063b;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Container{
+  background-color: #060023;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+  width: 650px;
+  position: absolute;
+  max-width: 700px;
+  overflow: hidden;
+  top: 62%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Container p{
+    color: white;
+}
+
+.World-Map{
+  width: 100%;            
+  height: 90%;           
+  max-width: 900%;        
+  display: block;
+  border-radius: 10px;
+  position: relative;
+  
+}
